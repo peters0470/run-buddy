@@ -337,6 +337,7 @@ footer h2, footer div {
     }
 }
 @media screen and (max-width: 575px) {
+    
     .hero-form button {
         width: 100%;
     }
